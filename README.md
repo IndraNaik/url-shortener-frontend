@@ -32,21 +32,6 @@
         <pre><code>git clone https://github.com/IndraNaik/url-shortener-frontend.git
 cd url-shortener</code></pre>
     </li>
-    <li><strong>Setup the Backend</strong>
-        <ol>
-            <li>Navigate to the backend directory:
-                <pre><code>cd backend</code></pre>
-            </li>
-            <li>Install the required packages:
-                <pre><code>npm install</code></pre>
-            </li>
-            <li>Make sure MongoDB is running and accessible.</li>
-        </ol>
-    </li>
-    <li><strong>Start the Backend Server</strong>
-        <pre><code>node server.js</code></pre>
-        <p>The backend server will run on <code>http://localhost:4000</code>.</p>
-    </li>
     <li><strong>Setup the Frontend</strong>
         <ol>
             <li>Open a new terminal and navigate to the frontend directory:
