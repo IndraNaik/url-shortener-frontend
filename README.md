@@ -23,14 +23,13 @@
 <h2 id="technologies-used">Technologies Used</h2>
 <ul>
     <li><strong>Frontend:</strong> React.js, Axios</li>
-    <li><strong>Backend:</strong> Node.js, Express.js</li>
-    <li><strong>Database:</strong> MongoDB</li>
+   
 </ul>
 
 <h2 id="installation">Installation</h2>
 <ol>
     <li><strong>Clone the Repository</strong>
-        <pre><code>git clone https://github.com/your-username/url-shortener.git
+        <pre><code>git clone https://github.com/IndraNaik/url-shortener-frontend.git
 cd url-shortener</code></pre>
     </li>
     <li><strong>Setup the Backend</strong>
